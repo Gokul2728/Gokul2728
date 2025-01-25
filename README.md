@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced Delopment**
 
-- 💬 Ask me about **Flutter, React, Go Lang**
+- 💬 Ask me about **Flutter , React , Go Lang**
 
 - 📫 How to reach me **gokulat8@gmail.com**
 
