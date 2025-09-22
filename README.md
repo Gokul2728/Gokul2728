@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gokul</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Software Developer</h3>
 
 - 🔭 I’m currently working on **Learning Management**
 
 - 🌱 I’m currently learning **Advanced Delopment**
 
-- 💬 Ask me about **Flutter , React , Go Lang , SQL , API**
+- 💬 Ask me about **Node, Express, React, SQL , API**
 
 - 📫 How to reach me **gokulponnusamy02@gmail.com**
 
